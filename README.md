@@ -1,9 +1,6 @@
 ## Eu sou o Léo Matheus 
 
 
-- 🧑‍💻 I’m currently working on Loy Legal
-- 🤖 I’m currently learning Deveops,EmberJs & Matematica
-
 
 <!-- - 📫 How to reach me: ... -->
 
