@@ -6,12 +6,12 @@ Software developer from Santa Catarina, Brazil, focused on back-end development,
 
 | Project | Description | Stack |
 |---|---|---|
-| [MediaGrabber](https://github.com/LeooMatheuss/MediaGrabber) | Desktop app for Linux to download videos from Instagram, YouTube, TikTok and X — PySide6 GUI, yt-dlp engine, FFmpeg processing and persistent queue | Python, PySide6, yt-dlp, FFmpeg |
-| [SubtitleStudio](https://github.com/LeooMatheuss/SubtitleStudio) | AI-powered video transcription, translation and subtitling — 100% local, with a visual editor for review | TypeScript, React 19, Python, FFmpeg |
-| ⭐ [cnj-publications-intelligence](https://github.com/LeooMatheuss/cnj-publications-intelligence) | Legal data engine that collects, normalizes and serves judicial publications from Brazil's CNJ/DJEN via the official API — embeddable module, authenticated REST gateway and SaaS app | Node.js, PostgreSQL, Express, Docker |
+| [MediaGrabber](https://github.com/LeooMatheuss/MediaGrabber) | Desktop app for Linux to download videos from Instagram, YouTube, TikTok and X, with PySide6 GUI, yt-dlp engine, FFmpeg processing and persistent queue | Python, PySide6, yt-dlp, FFmpeg |
+| [SubtitleStudio](https://github.com/LeooMatheuss/SubtitleStudio) | AI-powered video transcription, translation and subtitling, 100% local, with a visual editor for review | TypeScript, React 19, Python, FFmpeg |
+| ⭐ [cnj-publications-intelligence](https://github.com/LeooMatheuss/cnj-publications-intelligence) | Legal data engine that collects, normalizes and serves judicial publications from Brazil's CNJ/DJEN via the official API: embeddable module, authenticated REST gateway and SaaS app | Node.js, PostgreSQL, Express, Docker |
 | [bastiaos](https://github.com/LeooMatheuss/bastiaos) | Lightweight, modular and reproducible Linux distribution | Shell, Linux |
 | [BastiaOS-Site](https://github.com/LeooMatheuss/BastiaOS-Site) | Official website for BastiaOS | HTML |
-| [PaperLens](https://github.com/LeooMatheuss/PaperLens) | Open-source document analytics platform for PDFs — reading, extraction, summarization and insights | TypeScript |
+| [PaperLens](https://github.com/LeooMatheuss/PaperLens) | Open-source document analytics platform for PDFs: reading, extraction, summarization and insights | TypeScript |
 | [ListaGO](https://github.com/LeooMatheuss/ListaGO) | Smart Shopping Assistant | C++ |
 | [API-REST-NodeJs](https://github.com/LeooMatheuss/API-REST-NodeJs) | Production-ready REST API with clean architecture, auth, validation and logging | Node.js |
 | [beecrowd-all-problems](https://github.com/LeooMatheuss/beecrowd-all-problems) | Beecrowd/URI problem solutions focused on algorithms and problem-solving | Algorithms |
@@ -67,11 +67,11 @@ Desenvolvedor de software de Santa Catarina, Brasil, com foco em back-end, siste
 
 ### Projetos em Destaque
 
-- **[MediaGrabber](https://github.com/LeooMatheuss/MediaGrabber)** — App desktop para Linux de download de vídeos do Instagram, YouTube, TikTok e X — GUI em PySide6, motor yt-dlp e fila persistente
-- **[SubtitleStudio](https://github.com/LeooMatheuss/SubtitleStudio)** — Transcrição, tradução e legendagem automática de vídeos com IA — 100% local, com editor visual para revisão
-- ⭐ **[cnj-publications-intelligence](https://github.com/LeooMatheuss/cnj-publications-intelligence)** — Motor de dados jurídicos que coleta, normaliza e consulta publicações do CNJ/DJEN via API oficial — módulo embutível, gateway REST autenticado e app SaaS
-- **[bastiaos](https://github.com/LeooMatheuss/bastiaos)** — Distribuição Linux leve, modular e reproduzível
-- **[PaperLens](https://github.com/LeooMatheuss/PaperLens)** — Plataforma open-source de análise de documentos PDF
-- **[ListaGO](https://github.com/LeooMatheuss/ListaGO)** — Assistente inteligente de compras
-- **[API-REST-NodeJs](https://github.com/LeooMatheuss/API-REST-NodeJs)** — API REST pronta para produção com arquitetura limpa, autenticação e logs
-- **[beecrowd-all-problems](https://github.com/LeooMatheuss/beecrowd-all-problems)** — Soluções de problemas Beecrowd/URI com foco em algoritmos
+- **[MediaGrabber](https://github.com/LeooMatheuss/MediaGrabber)**: App desktop para Linux de download de vídeos do Instagram, YouTube, TikTok e X, com GUI em PySide6, motor yt-dlp e fila persistente
+- **[SubtitleStudio](https://github.com/LeooMatheuss/SubtitleStudio)**: Transcrição, tradução e legendagem automática de vídeos com IA, 100% local, com editor visual para revisão
+- ⭐ **[cnj-publications-intelligence](https://github.com/LeooMatheuss/cnj-publications-intelligence)**: Motor de dados jurídicos que coleta, normaliza e consulta publicações do CNJ/DJEN via API oficial: módulo embutível, gateway REST autenticado e app SaaS
+- **[bastiaos](https://github.com/LeooMatheuss/bastiaos)**: Distribuição Linux leve, modular e reproduzível
+- **[PaperLens](https://github.com/LeooMatheuss/PaperLens)**: Plataforma open-source de análise de documentos PDF
+- **[ListaGO](https://github.com/LeooMatheuss/ListaGO)**: Assistente inteligente de compras
+- **[API-REST-NodeJs](https://github.com/LeooMatheuss/API-REST-NodeJs)**: API REST pronta para produção com arquitetura limpa, autenticação e logs
+- **[beecrowd-all-problems](https://github.com/LeooMatheuss/beecrowd-all-problems)**: Soluções de problemas Beecrowd/URI com foco em algoritmos
