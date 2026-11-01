@@ -2,6 +2,8 @@
 
 Software developer from Santa Catarina, Brazil, focused on back-end development, Linux systems and automation. I enjoy building everything from REST APIs and web scrapers to an entire Linux distribution. Currently studying to become an **AI Product Builder**, working hands-on with diverse AI models and tools, while sharpening algorithmic problem-solving every day.
 
+🌐 **Portfolio: [leoomatheuss.github.io](https://leoomatheuss.github.io)**
+
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -51,6 +53,9 @@ Software developer from Santa Catarina, Brazil, focused on back-end development,
 ## 📫 Get in Touch
 
 <div>
+  <a href="https://leoomatheuss.github.io" target="_blank">
+    <img align="center" alt="Portfolio" height="30" src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/leonardo-matheus-da-silva-1126b8a0/" target="_blank">
     <img align="center" alt="LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
