@@ -32,9 +32,12 @@ Software developer from Santa Catarina, Brazil, focused on back-end development,
 
 ## 📊 GitHub Stats
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeooMatheuss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeooMatheuss&layout=compact&langs_count=8&theme=dracula"/>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LeooMatheuss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeooMatheuss&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=LeooMatheuss&theme=dracula&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
 ## 📫 Get in Touch
