@@ -6,8 +6,9 @@ Software developer from Santa Catarina, Brazil, focused on back-end development,
 
 | Project | Description | Stack |
 |---|---|---|
+| [MediaGrabber](https://github.com/LeooMatheuss/MediaGrabber) | Desktop app for Linux to download videos from Instagram, YouTube, TikTok and X — PySide6 GUI, yt-dlp engine, FFmpeg processing and persistent queue | Python, PySide6, yt-dlp, FFmpeg |
+| [SubtitleStudio](https://github.com/LeooMatheuss/SubtitleStudio) | AI-powered video transcription, translation and subtitling — 100% local, with a visual editor for review | TypeScript, React 19, Python, FFmpeg |
 | ⭐ [cnj-publications-intelligence](https://github.com/LeooMatheuss/cnj-publications-intelligence) | Legal data engine that collects, normalizes and serves judicial publications from Brazil's CNJ/DJEN via the official API — embeddable module, authenticated REST gateway and SaaS app | Node.js, PostgreSQL, Express, Docker |
-| [TribunalCNJ](https://github.com/LeooMatheuss/TribunalCNJ) | Web scraping RPA that extracts judicial publications from the CNJ/PJe platform (comunica.pje.jus.br) using browser automation | JavaScript, WebdriverIO, Cheerio |
 | [bastiaos](https://github.com/LeooMatheuss/bastiaos) | Lightweight, modular and reproducible Linux distribution | Shell, Linux |
 | [BastiaOS-Site](https://github.com/LeooMatheuss/BastiaOS-Site) | Official website for BastiaOS | HTML |
 | [PaperLens](https://github.com/LeooMatheuss/PaperLens) | Open-source document analytics platform for PDFs — reading, extraction, summarization and insights | TypeScript |
@@ -66,8 +67,9 @@ Desenvolvedor de software de Santa Catarina, Brasil, com foco em back-end, siste
 
 ### Projetos em Destaque
 
+- **[MediaGrabber](https://github.com/LeooMatheuss/MediaGrabber)** — App desktop para Linux de download de vídeos do Instagram, YouTube, TikTok e X — GUI em PySide6, motor yt-dlp e fila persistente
+- **[SubtitleStudio](https://github.com/LeooMatheuss/SubtitleStudio)** — Transcrição, tradução e legendagem automática de vídeos com IA — 100% local, com editor visual para revisão
 - ⭐ **[cnj-publications-intelligence](https://github.com/LeooMatheuss/cnj-publications-intelligence)** — Motor de dados jurídicos que coleta, normaliza e consulta publicações do CNJ/DJEN via API oficial — módulo embutível, gateway REST autenticado e app SaaS
-- **[TribunalCNJ](https://github.com/LeooMatheuss/TribunalCNJ)** — RPA de web scraping que extrai comunicações processuais da plataforma CNJ/PJe (comunica.pje.jus.br) com automação de navegador
 - **[bastiaos](https://github.com/LeooMatheuss/bastiaos)** — Distribuição Linux leve, modular e reproduzível
 - **[PaperLens](https://github.com/LeooMatheuss/PaperLens)** — Plataforma open-source de análise de documentos PDF
 - **[ListaGO](https://github.com/LeooMatheuss/ListaGO)** — Assistente inteligente de compras
