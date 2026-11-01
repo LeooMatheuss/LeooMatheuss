@@ -1,11 +1,12 @@
 # Hi there, I'm Léo Matheus 👋
 
-Software developer from Santa Catarina, Brazil, focused on back-end development, Linux systems and automation. I enjoy building everything from REST APIs and web scrapers to an entire Linux distribution.
+Software developer from Santa Catarina, Brazil, focused on back-end development, Linux systems and automation. I enjoy building everything from REST APIs and web scrapers to an entire Linux distribution. Currently studying to become an **AI Product Builder**, working hands-on with diverse AI models and tools, while sharpening algorithmic problem-solving every day.
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
+| ⭐ [TribunalCNJ](https://github.com/LeooMatheuss/TribunalCNJ) | Web scraping RPA that extracts judicial publications from Brazil's CNJ/PJe platform (comunica.pje.jus.br) using browser automation | JavaScript, WebdriverIO, Cheerio |
 | [bastiaos](https://github.com/LeooMatheuss/bastiaos) | Lightweight, modular and reproducible Linux distribution | Shell, Linux |
 | [BastiaOS-Site](https://github.com/LeooMatheuss/BastiaOS-Site) | Official website for BastiaOS | HTML |
 | [PaperLens](https://github.com/LeooMatheuss/PaperLens) | Open-source document analytics platform for PDFs — reading, extraction, summarization and insights | TypeScript |
@@ -28,6 +29,11 @@ Software developer from Santa Catarina, Brazil, focused on back-end development,
   <img align="center" alt="MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Linux" height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img align="center" alt="Docker" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" alt="Kubernetes" height="30" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img align="center" alt="PostgreSQL" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="GitHub Actions" height="30" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  <img align="center" alt="OpenAI" height="30" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
 </div>
 
 ## 📊 GitHub Stats
@@ -55,10 +61,11 @@ Software developer from Santa Catarina, Brazil, focused on back-end development,
 
 ## 🇧🇷 Versão em Português
 
-Desenvolvedor de software de Santa Catarina, Brasil, com foco em back-end, sistemas Linux e automação. Gosto de construir desde APIs REST e web scrapers até uma distribuição Linux completa.
+Desenvolvedor de software de Santa Catarina, Brasil, com foco em back-end, sistemas Linux e automação. Gosto de construir desde APIs REST e web scrapers até uma distribuição Linux completa. Atualmente estudando para me tornar **AI Product Builder**, trabalhando na prática com as mais diversas IAs, enquanto afio resolução de algoritmos todos os dias.
 
 ### Projetos em Destaque
 
+- ⭐ **[TribunalCNJ](https://github.com/LeooMatheuss/TribunalCNJ)** — RPA de web scraping que extrai comunicações processuais da plataforma CNJ/PJe (comunica.pje.jus.br) com automação de navegador
 - **[bastiaos](https://github.com/LeooMatheuss/bastiaos)** — Distribuição Linux leve, modular e reproduzível
 - **[PaperLens](https://github.com/LeooMatheuss/PaperLens)** — Plataforma open-source de análise de documentos PDF
 - **[ListaGO](https://github.com/LeooMatheuss/ListaGO)** — Assistente inteligente de compras
